@@ -1,6 +1,4 @@
 
-![Descricao da sua imagem](thumbnail.png)
-
 # Zoop Store
 
 Zoop Store é um e-commerce recheiado de produtos de diversas verdentes.
@@ -26,8 +24,11 @@ Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `
 
 Depois, acesse <a href="http://localhost:4200/">http://localhost:4200/</a> no seu navegador.
 
-## 📚 Mais informações do curso
 
-A Zoop Store é um e-commerce fictícia utilizada nesse curso da Alura.
-A ideia principal desse curso é apresentar os principais conceitos de testes no ecosistema do Angular.
+___
+## Notas de aprendizado:
 
+* Para configurar o Karma no Angular é necessário rodar o seguinte comando:
+```bash
+ng g config karma
+```
